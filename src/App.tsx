@@ -8,6 +8,7 @@ import NameForm from './components/NameForm';
 function App() {
   return (
     <>
+      
       <Counter /> 
       <List/>
       <NameForm/>
